@@ -1,0 +1,11 @@
+{
+  "name": "delacon-nuxt",
+  "version": "1.0.1",
+  "description": "Delacon script for Nuxt project",
+  "main": "lib/module.js",
+  "author": "juno-w",
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
